@@ -1,5 +1,6 @@
 import { Inngest } from "inngest";
 import connectDB from "./db";
+import inngest from '../../config/inngest'
 
 // Create a client to send and receive events
 export const inngest = new Inngest({ id: "ADERTECH-next" });
