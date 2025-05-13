@@ -8,10 +8,8 @@
     "start": "next start",
     "lint": "next lint"
   },
- 
-  // ustomize the package.json file to your liking
   "dependencies": {
-    "@clerk/nextjs": "^6.18.5" ,
+    "@clerk/nextjs": "^6.18.5",
     "inngest": "^3.35.1",
     "mongoose": "^8.14.1",
     "next": "^15.3.1",
